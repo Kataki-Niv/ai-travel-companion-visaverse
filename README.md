@@ -1,4 +1,6 @@
-# CoVoyage — AI-Powered Travel Companion Matching Platform
+# CoVoyage  
+AI-Powered Travel Companion & Cultural Guidance Platform
+
 
 ## Problem Statement
 First-time international travel can be overwhelming, particularly for students and solo travelers.
